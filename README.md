@@ -1,6 +1,8 @@
 # vue-more-preview
 
-vue-more-preview是基于[vue-preview](https://www.npmjs.com/package/vue-preview)的图片预览插件，它修复了vue-preview引用时报错的bug，同时为options参数增加了style字段，以解决同页面里多区块中需要图片预览时出现的问题。<img width="50" height="150" src="https://www.moment16.com/likely6/images/VUE_vue-moew-preview-01.jpg" />
+vue-more-preview是基于[vue-preview](https://www.npmjs.com/package/vue-preview)的图片预览插件，它修复了vue-preview引用时报错的bug，同时为options参数增加了style字段，以解决同页面里多区块中需要图片预览时出现的问题。
+
+<img width="100" height="200" src="https://www.moment16.com/likely6/images/VUE_vue-moew-preview-01.jpg" />
 
 
 >npm安装
