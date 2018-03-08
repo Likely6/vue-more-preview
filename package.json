@@ -1,6 +1,6 @@
 {
   "name": "vue-more-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image Preview component based on vue-preview",
   "main": "index.js",
   "scripts": {
